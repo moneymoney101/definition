@@ -20,4 +20,4 @@
 
 
 
-[MY Meaning](meaning.html)
+[MY Meaning](index.html)
