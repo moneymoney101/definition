@@ -7,7 +7,10 @@
 + terminal
 + GitHub
 + https
-+ 
++ version control
++ syntax
++ server
+
 
 
 

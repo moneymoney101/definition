@@ -1,0 +1,41 @@
+body {
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+    align-items: center;
+    justify-content: center;
+    color: brown;
+    font-family: sans-serif;
+    font-family: "Poppins", serif;
+    background-image:url(https://th.bing.com/th/id/R.2dcf927b2244a5fb480061b471022027?rik=4vwd3xxJlN6U7g&pid=ImgRaw&r=0);
+    background-position:center;
+    background-attachment:fixed;
+}
+
+/*  */
+
+h1 {
+
+    font-size: 25px;
+}
+  
+
+ul {
+
+    font-size: 20px;
+}
+
+li {
+
+    font-weight: 600;
+}
+
+
+.container {
+    
+    background-color: white;
+    padding:50px 10px 10px 10px;
+    width:50%;
+    border-radius: 20px;
+    
+}
